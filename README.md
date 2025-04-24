@@ -1,4 +1,4 @@
-# 🌤 Breezy2.0 - Weather App  
+# 🌤 Breezy3.0 - Weather App  
 
 Breezy is a modern weather application that provides real-time weather updates and a **5-day forecast** for cities worldwide. It features a sleek, responsive UI with **dark mode support** and country selection.  
 
