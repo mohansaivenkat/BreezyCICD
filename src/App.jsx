@@ -54,7 +54,7 @@ export default function App() {
       {/* header - title and switch */}
       <header className="flex flex-row justify-between items-center p-5 shadow-md bg-white dark:bg-gray-800 transition duration-300">
         <h1 className="title text-5xl sm:text-6xl font-bold text-purple-500 dark:text-purple-400 transition-transform duration-300 hover:scale-105">
-          Breezy
+          Breezy 2.0
         </h1>
         <button
           onClick={() => setDarkMode(!darkMode)}
