@@ -54,7 +54,7 @@ export default function App() {
       {/* header - title and switch */}
       <header className="flex flex-row justify-between items-center p-5 shadow-md bg-white dark:bg-gray-800 transition duration-300">
         <h1 className="title text-5xl sm:text-6xl font-bold text-purple-500 dark:text-purple-400 transition-transform duration-300 hover:scale-105">
-          Breezy2.0
+          Breezy
         </h1>
         <button
           onClick={() => setDarkMode(!darkMode)}
@@ -68,7 +68,6 @@ export default function App() {
       <section className="max-w-3xl mx-auto mt-6 px-4 text-center">
         <p className="italic text-sm md:text-2xl sm:text-xl leading-relaxed text-gray-700 dark:text-gray-300 transition-opacity duration-700">
           Get real-time weather updates for any city across the world. Just enter the city name and country code below!
-          hi chavi mam
         </p>
       </section>
 
