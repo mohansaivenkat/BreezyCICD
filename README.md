@@ -33,7 +33,12 @@ Built and deployed a weather web app using React, Tailwind CSS, and the OpenWeat
 - OpenWeatherMap API  
 
 ### **State Management:**  
-- React Hooks (useState, useEffect)  
+- React Hooks (useState, useEffect)
+
+### **Tools**
+- Docker
+- Jenkins
+- AWS EC2 instance
 
 ---
 
