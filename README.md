@@ -1,6 +1,8 @@
-# 🌤 Breezy3.0 - Weather App  
+# 🌤 Breezy - Weather App  
 
-Breezy is a modern weather application that provides real-time weather updates and a **5-day forecast** for cities worldwide. It features a sleek, responsive UI with **dark mode support** and country selection.  
+Built and deployed a weather web app using React, Tailwind CSS, and the OpenWeather API, integrated with a full **CI/CD pipeline** using **Jenkins and Docker**. The project is hosted on an **AWS EC2 instance** where Jenkins automates the pipeline. 
+
+**Note** - The website is now hosted on vercel cause of EC2 charges
 
 ---
 
